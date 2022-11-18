@@ -1,0 +1,49 @@
+.full-group-render{
+    display: inline;
+    padding: 3rem;
+}
+.full-country-render{
+    display: flex;
+    flex-direction: column;
+    border-top-style: solid;
+    padding: 0;
+    width: 30rem;
+    border-left-style: solid;
+   
+    
+}
+.country-row{
+    display: flex;  
+    
+    border-bottom-style: solid;
+
+}
+.result{
+    /* background-color: #c4c4c4; */
+    /* margin: 4rem auto; 
+    margin-top: 2rem; */
+    width: 7.5%;
+    padding: 1rem;
+    /* box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25); */
+    text-align: center;
+    border-left-style: solid;
+    margin: 0;
+   
+}
+.goal-difference{
+    border-left-style: solid;
+    border-right-style: solid;
+    width: 10%;
+    padding: 1rem;
+    text-align: center;
+    
+}
+.describer{
+    display: flex;
+    /* background-color: #c4c4c4; */
+    /* margin: 4rem auto; 
+    margin-top: 2rem; */
+    width: 60%;
+    padding: 1rem;
+    /* box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25); */
+}
