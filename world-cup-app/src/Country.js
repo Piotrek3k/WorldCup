@@ -8,6 +8,14 @@ class Country extends React.Component {
         this.image = props.image
         this.name = props.name
         this.id=props.id
+        this.state = {
+            points: 0,
+            wins: 0,
+            losses: 0,
+            draws: 0,
+            goalsScored: 0,
+            goalsConceded: 0
+        }
     }
     render() {
         return(

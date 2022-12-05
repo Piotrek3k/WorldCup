@@ -6,6 +6,10 @@
     width: 60%;
     padding: 1rem;
     /* box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25); */
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy; 
+    font-size: 17px; 
+    font-style: normal; 
+    font-variant: normal; 
 }
 .country-flag{
     margin-right: 1rem;

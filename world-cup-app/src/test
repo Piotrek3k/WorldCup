@@ -1,0 +1,1 @@
+this.countries.map((singleCountry) => (singleCountry.points=0 , singleCountry.wins=0, singleCountry.draws=0,singleCountry.losses=0, singleCountry.goalsScored=0,singleCountry.goalsConceded=0))
